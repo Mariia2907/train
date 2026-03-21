@@ -6,5 +6,6 @@ namespace Train.Domain
 {
     internal class FileName
     {
+        public string Name { get; set; }
     }
 }
