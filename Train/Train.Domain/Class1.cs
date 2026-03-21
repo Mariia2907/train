@@ -2,6 +2,10 @@
 {
     public class Class1
     {
-        яяяяя
+        public Class1()
+        {
+        }
+        public string Name { get; set; }
+
     }
 }
