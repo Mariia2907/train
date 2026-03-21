@@ -6,5 +6,6 @@ namespace Train.Domain
 {
     internal class ЗЗЗ
     {
+        public string Name { get; set; }
     }
 }
